@@ -1,22 +1,15 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap'); */
-@import url('http://fonts.cdnfonts.com/css/precious');
-@import url('http://fonts.cdnfonts.com/css/the-scientist');
-@import url('https://fonts.googleapis.com/css2?family=Babylonica&family=Cabin+Sketch:wght@700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Iceland&display=swap');
-.my-name{
-    /* font-family: 'Poppins', sans-serif; */
-    font-family: 'Precious', sans-serif;
-                     
-font-family: 'Cabin Sketch', cursive;                                          
-    font-weight: 700;
+
+.my-name {
+	font-family: "Cabin Sketch", cursive;
+	font-weight: 700;
 }
-.font-typerwriter{
-    font-family: 'Iceland', cursive;
+.font-typerwriter {
+	font-family: "Iceland", cursive;
 }
-.my-name-color{
-    color: #fcd34d;
+.my-name-color {
+	color: #fcd34d;
 }
-.topbar-container{
-    height: 100vh;
-    min-height: 300px;
+.topbar-container {
+	height: 100vh;
+	min-height: 300px;
 }

@@ -1,7 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Buda&display=swap');
-.projects-heading-font{
-    font-family: 'Buda', cursive;
-}
+
 .project-desc {
     position: absolute;
     top:90%;
