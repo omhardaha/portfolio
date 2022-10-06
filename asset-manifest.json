@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/portpolio/static/css/main.29278af6.css",
-    "main.js": "/portpolio/static/js/main.a264e11d.js",
-    "static/media/agatha.ttf": "/portpolio/static/media/agatha.44ddd8e6791c37f1cadf.ttf",
-    "index.html": "/portpolio/index.html",
-    "main.29278af6.css.map": "/portpolio/static/css/main.29278af6.css.map",
-    "main.a264e11d.js.map": "/portpolio/static/js/main.a264e11d.js.map"
+    "main.css": "/portfolio/static/css/main.ad762bff.css",
+    "main.js": "/portfolio/static/js/main.a264e11d.js",
+    "static/media/agatha.ttf": "/portfolio/static/media/agatha.44ddd8e6791c37f1cadf.ttf",
+    "index.html": "/portfolio/index.html",
+    "main.ad762bff.css.map": "/portfolio/static/css/main.ad762bff.css.map",
+    "main.a264e11d.js.map": "/portfolio/static/js/main.a264e11d.js.map"
   },
   "entrypoints": [
-    "static/css/main.29278af6.css",
+    "static/css/main.ad762bff.css",
     "static/js/main.a264e11d.js"
   ]
 }
